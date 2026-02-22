@@ -86,6 +86,7 @@ Jestem głównym administratorem sieci rozległych FTTH aktualnie obejmujących 
 - 📱 +48 505 686 717
 - ✉️ michal.slus@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/michalls/)
+- 🌐 [vlan.net.pl](https://vlan.net.pl)
 
 <!--
 **michalslusarczyk/michalslusarczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
